@@ -1,7 +1,7 @@
 
 
-1, Tìm địa điểm theo tên
-2, Tìm Tour theo tên địa điểm()
+1, Tìm địa điểm theo tên //
+2, Tìm Tour theo tên địa điểm() //
 3, Tìm Khách hàng theo ID và loại ID
 4, Lưu thông tin vé. (check khách hàng đã mua vé vào ngày đó chưa)
 5, Lưu Khách hàng nếu chưa có khách hàng trong CSDL
